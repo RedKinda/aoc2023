@@ -3,3 +3,4 @@ scraper.py
 input/
 .vscode/
 src/lib.rs
+**/__pycache__/**
